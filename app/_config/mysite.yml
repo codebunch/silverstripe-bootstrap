@@ -1,0 +1,11 @@
+---
+Name: myproject
+---
+SilverStripe\Core\Manifest\ModuleManifest:
+  project: app
+Silverstripe\SiteConfig\SiteConfig:
+  extensions:
+    - SiteConfiguration
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_css:
+    - themes/creative/vendor/fontawesome-free/css/all.min.css

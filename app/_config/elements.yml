@@ -1,0 +1,8 @@
+Page:
+  extensions:
+    - DNADesign\Elemental\Extensions\ElementalPageExtension
+DNADesign\Elemental\Models\BaseElement:
+  extensions:
+    - BaseElementExtension
+
+
