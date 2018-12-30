@@ -12,3 +12,6 @@
 /app/.htaccess
 .DS_Store
 /composer.lock
+.babelrc
+run.sh
+
