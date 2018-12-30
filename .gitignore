@@ -9,5 +9,6 @@
 /themes/creative/node_modules/
 /themes/creative/vendor/
 /app/_config.php
-/app/.htacess
-/.DS_Store
+/app/.htaccess
+.DS_Store
+/composer.lock
