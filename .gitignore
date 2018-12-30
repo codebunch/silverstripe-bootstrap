@@ -1,0 +1,12 @@
+/silverstripe-cache/
+/.env
+/.htaccess
+/phpcs.xml.dist
+/.editorconfig
+/vendor/
+/resources/
+/public
+/themes/creative/node_modules/
+/themes/creative/vendor/
+/app/_config.php
+/app/.htacess
