@@ -1,17 +1,13 @@
 /silverstripe-cache/
 /.env
-/.htaccess
-/phpcs.xml.dist
-/.editorconfig
 /vendor/
-/resources/
-/public
-/themes/creative/node_modules/
-/themes/creative/vendor/
-/app/_config.php
-/app/.htaccess
 .DS_Store
 /composer.lock
 .babelrc
-run.sh
+/public/resources/vendor/
+/public/resources/themes/
+/public/resources/install.php
+/public/resources/install-frameworkmissing.html
+/themes/creative/node_modules/
+/themes/creative/vendor/
 

@@ -1,4 +1,4 @@
-# SilverStripe 4 + Bootstrap Boilerplate
+# SilverStripe 4 + Bootstrap recipe
     
 ## Introduction
 
@@ -21,7 +21,11 @@ Features include
 ## Installation
 
 ```
-composer require sathish-vel/silverstripe-bootstrap
+composer create-project sathish-vel/silverstripe-bootstrap ./your-project-folder dev-master
+```
+
+```
+Create your own .env file with DB credentials, follow syntax as per .env.example
 ```
 
 ```
@@ -29,7 +33,7 @@ cd themes/creative
 npm install
 ```
 
-Coding standard check using PHP_CodeSniffer
+## Coding standard check using PHP_CodeSniffer
 
 ```
 ./vendor/bin/phpcs *.php
@@ -38,8 +42,11 @@ Coding standard check using PHP_CodeSniffer
 
 ## Build
 
-Update the run.sh script for your localhost url and execute ./run.sh
+```
+Execute build.sh for SilverStripe dev/build
+```
 
 ## Screenprints
+To be added
 
-Special thanks to https://startbootstrap.com/ for the free bootstrap 4 template.
+## Special thanks to https://startbootstrap.com/ for the free bootstrap 4 template.
