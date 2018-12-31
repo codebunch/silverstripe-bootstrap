@@ -1,0 +1,114 @@
+.Page.no-sidebar {
+  background: #f6f8f8;
+  #mainNav {
+    border-bottom: 1px solid rgba(33,37,41,.1);
+    background-color: #fff;
+    .navbar-brand {
+      color: #f05f40;
+    }
+  }
+}
+
+.login-wrapper {
+  position: absolute;
+  top: 168px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  .box {
+  	margin: 0 auto;
+  	padding: 40px 0 30px;
+  	float: none;
+  	width: 400px;
+  	border-radius: 5px;
+  	border: 1px solid #dfe3e3;
+  	background: #ffffff;
+  	.content-wrap {
+      width: 82%;
+      margin: 0 auto;
+    }
+    input[type=text], input[type=password], input[type=email] {
+      font-size: 15px;
+      height: 40px;
+      margin-bottom: 18px;
+      border-color: #dfe3e3;
+      padding-left: 12px;
+      display: block;
+      width: 100%;
+      height: 34px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.428571429;
+      color: #555;
+      vertical-align: middle;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+      box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+      -webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+      transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	}
+	.action{
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      margin: 30px auto 10px;
+      padding-left: 45px;
+      padding-right: 45px;
+      display: inline-block;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 1.428571429;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      cursor: pointer;
+      border-radius: 4px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      -o-user-select: none;
+      user-select: none;
+      background-color: #ff5231;
+      border-color: #ff5231;
+      padding: 5px 30px;
+      color: white;
+    }
+    label {
+      display: inline-block;
+      margin-bottom: 5px;
+      font-weight: bold;
+      &.right{
+	    font-weight: normal;
+        font-size: 14px;
+      }
+    }
+    .field{
+	  margin-bottom: 15px;
+    }
+  }
+  #ForgotPassword{
+	margin: 30px auto 10px auto;
+	text-align:center;
+	width: 100%
+  }
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset;
+    transition: background-color 5000s ease-in-out 0s;
+    background-color: #FFFFFF !important;
+}
+
+
+
+
+
+
+
+
+
+
+

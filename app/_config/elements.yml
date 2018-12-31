@@ -1,4 +1,4 @@
-Page:
+BlockPage:
   extensions:
     - DNADesign\Elemental\Extensions\ElementalPageExtension
 DNADesign\Elemental\Models\BaseElement:

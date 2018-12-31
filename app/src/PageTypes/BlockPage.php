@@ -1,11 +1,7 @@
 <?php
-
-namespace {
-
-    use SilverStripe\CMS\Model\SiteTree;
     use DNADesign\Elemental\Models\BaseElement;
 
-    class Page extends SiteTree
+    class BlockPage extends Page
     {
         private static $db = [];
 
@@ -17,4 +13,4 @@ namespace {
             return $Links;
         }
     }
-}
+

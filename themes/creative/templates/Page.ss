@@ -18,9 +18,9 @@
     <link rel="shortcut icon" href="$SiteConfig.Favicon.url" />  
   </head>
 
-  <body id="page-top">
+  <body id="page-top" class="$ClassName.ShortName<% if not $Menu(2) %> no-sidebar<% end_if %>" <% if $i18nScriptDirection %>dir="$i18nScriptDirection"<% end_if %>>
     <% include Navigation %>
-    <div class="inner typography line">
+    <div class="inner">
       $Layout
     </div>
     <!-- Bootstrap core JavaScript -->
