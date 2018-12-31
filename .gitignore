@@ -6,8 +6,8 @@
 .babelrc
 /public/resources/vendor/
 /public/resources/themes/
-/public/resources/install.php
-/public/resources/install-frameworkmissing.html
+/public/install.php
+/public/install-frameworkmissing.html
 /themes/creative/node_modules/
 /themes/creative/vendor/
 
