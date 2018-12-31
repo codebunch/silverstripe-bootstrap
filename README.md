@@ -40,6 +40,13 @@ npm install
 ./vendor/bin/phpcbf *.php
 ```
 
+## Local admin credentials setup
+
+```
+Add your default admin credentials in config - app/_config.php
+SilverStripe\Security\Security::setDefaultAdmin("admin","admin");
+```
+
 ## Build
 
 ```

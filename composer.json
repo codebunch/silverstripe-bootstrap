@@ -1,12 +1,13 @@
 {
     "name": "sathish-vel/silverstripe-bootstrap",
-    "description": "SilverStripe Bootstrap Boilerplate",
+    "description": "SilverStripe Bootstrap Recipe",
     "type": "project",
     "keywords": [
         "silverstripe",
         "bootstrap",
         "themes",
-        "silverstripe initial setup"
+        "silverstripe setup",
+        "silverstripe 4"
     ],
     "license": "BSD-3-Clause",
     "authors": [
