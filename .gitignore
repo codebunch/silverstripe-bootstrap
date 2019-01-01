@@ -10,4 +10,5 @@
 /public/install-frameworkmissing.html
 /themes/creative/node_modules/
 /themes/creative/vendor/
-
+* linguist-vendored
+*.php linguist-vendored=false
