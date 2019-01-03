@@ -56,15 +56,15 @@ Execute build.sh for SilverStripe dev/build
 ## Screenprints
 
 
-![Screenprints](https://raw.githubusercontent.com/sathish-vel/silverstripe-bootstrap/master/themes/creative/images/homepage.png)
+![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-bootstrap/master/themes/creative/images/homepage.png)
 
 
 
-![Screenprints](https://raw.githubusercontent.com/sathish-vel/silverstripe-bootstrap/master/themes/creative/images/cmsadmin.png)
+![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-bootstrap/master/themes/creative/images/cmsadmin.png)
 
 
 
-![Screenprints](https://raw.githubusercontent.com/sathish-vel/silverstripe-bootstrap/master/themes/creative/images/adminlogin.png)
+![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-bootstrap/master/themes/creative/images/adminlogin.png)
 
 
 
