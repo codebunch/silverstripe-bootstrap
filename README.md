@@ -21,7 +21,7 @@ Features include
 ## Installation
 
 ```
-composer create-project sathish-vel/silverstripe-bootstrap ./your-project-folder dev-master
+composer create-project beanjuice/silverstripe-bootstrap ./your-project-folder dev-master
 ```
 
 ```

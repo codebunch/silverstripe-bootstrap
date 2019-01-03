@@ -1,5 +1,5 @@
 {
-    "name": "sathish-vel/silverstripe-bootstrap",
+    "name": "beanjuice/silverstripe-bootstrap",
     "description": "SilverStripe Bootstrap Recipe",
     "type": "project",
     "keywords": [
@@ -12,7 +12,7 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sathish Vel",
+            "name": "Sathish",
             "email": "veluchamysathishkumar@gmail.com"
         }
     ],
