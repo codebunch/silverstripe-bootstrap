@@ -67,5 +67,14 @@ Execute build.sh for SilverStripe dev/build
 ![Screenprints](https://raw.githubusercontent.com/beanjuice/silverstripe-bootstrap/master/themes/creative/images/adminlogin.png)
 
 
+## Contributing
+
+Your contributions are most welcome! 
+
+* use the project for your business
+* star the project
+* report issues to the project issues page
+* README & documentation enhancement (via PR)
+* new feature or bug fixing via a PR
 
 ## Special thanks to https://startbootstrap.com/ for the free bootstrap 4 template.
